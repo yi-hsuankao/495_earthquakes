@@ -1,1 +1,1 @@
-# 495_earthquakes.github.io
+# 495_earthquakes
